@@ -1,0 +1,32 @@
+/* Navbar part */
+.flex{
+    display: flex;
+}
+.navbar {
+    width: 98%;
+    border: 1px solid blue;
+    margin: auto;
+    background-color: rgb(15, 13, 13);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.navbar-1-child> {
+    width: 40%;
+}
+
+.navbar-1-child>img {
+    height: 80px;
+    width: 130px;
+}
+
+.navbar-1-child2 {
+
+    width: 45%;
+}
+
+.navbar-1-child2>input {
+    width: 590px;
+
+}
